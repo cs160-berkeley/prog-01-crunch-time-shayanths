@@ -1,6 +1,6 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+
 
 ## Authors
 
