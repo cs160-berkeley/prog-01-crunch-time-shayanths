@@ -12,7 +12,7 @@ See [WEIGHT WATCHER CALCULATOR] (https://youtu.be/kwhVoFSsCSE)
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/Screen Shot 2016-02-04 at 7.44.07 PM.png" height="400" alt="Screenshot"/>
 
 ## Acknowledgments
 
